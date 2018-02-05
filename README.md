@@ -17,3 +17,5 @@ To be nice is hard,may be that's why there are few nice people.
 >>>>>>> 116dcc5e4bbf56604f98e8b707f161ad78c2ebd6
 
 it seems the command needs to be practised!
+
+mow，mow，test for the command “git fetch”
