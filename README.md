@@ -8,3 +8,6 @@ Coding is just a cool thing in the world!
 
 I'm back again！
 today i buy some food from supermarket，prepare to welcome the lunar new year！
+
+
+why the command "git pull" doesn't work!
