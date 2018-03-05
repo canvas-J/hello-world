@@ -17,4 +17,5 @@ today i buy some food from supermarket，<br>prepare to welcome the lunar new ye
 *   it seems the command needs to be practised!
 
 *   mow，<br>mow，<br>test for the command “git fetch”
-
+|Author|果冻虾仁|
+|E-mail|Jelly.K.Wang@qq.com
