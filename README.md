@@ -5,7 +5,7 @@ I'll become a programer sonner or later!<br>
 I love python and linux,they are just so efficient.<br>
 Coding is just a cool thing in the world!<br>
 today i buy some food from supermarket，<br>prepare to welcome the lunar new year！
-* To be nice is hard,<br>may be that's why there are few nice people
+* To be nice is hard,<br>may be that's why there are few ones are awesome.
 *   it seems the command needs to be practised!
 *   ha!<br>test for the command “git fetch”
 
